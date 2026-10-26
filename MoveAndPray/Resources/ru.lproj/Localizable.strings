@@ -1,0 +1,64 @@
+"dashboard.prayer_guidance" = "Почему отметка — не цель молитвы";
+"dashboard.prayer_guidance.accessibility_hint" = "Открывает наставление святителя Феофана Затворника";
+"dashboard.section.today" = "СЕГОДНЯ";
+"dashboard.section.calendar" = "КАЛЕНДАРЬ ДИСЦИПЛИНЫ";
+"dashboard.section.reminder" = "НАПОМИНАНИЕ";
+"dashboard.progress.accessibility" = "Сегодня выполнено %@. %@";
+"dashboard.privacy_policy" = "Политика конфиденциальности";
+"dashboard.support" = "Поддержка";
+"dashboard.website.accessibility_hint" = "Открывает сайт Move & Pray в браузере";
+
+"habit.workout.title" = "Движение";
+"habit.workout.detail" = "Пробежка, зал или 15 минут фитнеса";
+"habit.prayer.title" = "Молитва";
+"habit.prayer.detail" = "Пять минут со вниманием и сердцем";
+"habit.completed_today" = "Сегодня выполнено";
+"habit.action.mark" = "Отметить";
+"habit.action.remove" = "Снять отметку";
+"habit.streak.starts_today" = "Серия начнётся сегодня";
+
+"motivation.none" = "Начни с малого. Сегодня достаточно одного честного шага.";
+"motivation.half" = "Половина дня отмечена. Заверши вторую без спешки.";
+"motivation.complete" = "День собран. Сохрани внимание до завтра.";
+
+"calendar.previous_month" = "Предыдущий месяц";
+"calendar.next_month" = "Следующий месяц";
+"calendar.legend.workout" = "движение";
+"calendar.legend.prayer" = "молитва";
+"calendar.workout.completed" = "движение выполнено";
+"calendar.workout.missed" = "движение пропущено";
+"calendar.workout.pending" = "движение ожидает отметки";
+"calendar.workout.future" = "время движения ещё не наступило";
+"calendar.prayer.completed" = "молитва выполнена";
+"calendar.prayer.missed" = "молитва пропущена";
+"calendar.prayer.pending" = "молитва ожидает отметки";
+"calendar.prayer.future" = "время молитвы ещё не наступило";
+
+"reminder.title" = "Не пропустить день";
+"reminder.toggle.accessibility" = "Ежедневные напоминания";
+"reminder.time.title" = "Время";
+"reminder.time.accessibility" = "Время напоминания";
+"reminder.status.denied" = "Доступ запрещён в системных настройках.";
+"reminder.status.enabled" = "Напомним, только если день ещё не закрыт полностью.";
+"reminder.status.disabled" = "Включите одно спокойное напоминание на каждый день.";
+"reminder.notification.title" = "Move & Pray · день не завершён";
+"reminder.notification.only_prayer" = "Движение отмечено. Останься на пять минут для внимательной молитвы.";
+"reminder.notification.only_workout" = "Молитва отмечена. Найди хотя бы пятнадцать минут для движения.";
+"reminder.notification.both" = "Не пропусти день: движение и пять минут внимательной молитвы.";
+
+"alert.notifications_disabled.title" = "Уведомления выключены";
+"alert.notifications_disabled.message" = "Разрешите уведомления для Move & Pray в системных настройках, чтобы получать ежедневное напоминание.";
+"alert.not_now" = "Не сейчас";
+"alert.open_settings" = "Открыть Настройки";
+"alert.reminder_failed.title" = "Не удалось обновить напоминание";
+"alert.ok" = "Понятно";
+"error.load" = "Не удалось загрузить данные. Попробуйте открыть приложение снова.";
+
+"prayer.primary.acknowledge" = "Понимаю и отмечаю";
+"prayer.primary.close" = "Закрыть";
+"prayer.source.title" = "Свт. Феофан Затворник — «О молитве»";
+"prayer.source.accessibility_hint" = "Открывает источник в браузере";
+"prayer.guidance.title" = "Молитва — не счётчик";
+"prayer.guidance.disclaimer" = "Отметка в приложении — только напоминание, а не мера духовной жизни и не повод сравнивать себя с другими. Не молитесь машинально и не стремитесь вычитать как можно больше. Пять минут с вниманием, покаянием и сердцем важнее формально выполненного правила.";
+"prayer.guidance.advice" = "Подбирайте правило по силам. Если возникают духовные вопросы, лучше обсудить их со священником, который вас знает.";
+"prayer.guidance.quote" = "«Без внимания молитва не молитва. Следовательно, это главное»\n— святитель Феофан Затворник";

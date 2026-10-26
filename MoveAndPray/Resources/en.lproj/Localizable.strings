@@ -1,0 +1,64 @@
+"dashboard.prayer_guidance" = "Why a checkmark is not the goal of prayer";
+"dashboard.prayer_guidance.accessibility_hint" = "Opens guidance from St Theophan the Recluse";
+"dashboard.section.today" = "TODAY";
+"dashboard.section.calendar" = "DISCIPLINE CALENDAR";
+"dashboard.section.reminder" = "REMINDER";
+"dashboard.progress.accessibility" = "Completed %@ today. %@";
+"dashboard.privacy_policy" = "Privacy Policy";
+"dashboard.support" = "Support";
+"dashboard.website.accessibility_hint" = "Opens the Move & Pray website in the browser";
+
+"habit.workout.title" = "Movement";
+"habit.workout.detail" = "A run, the gym, or 15 minutes of fitness";
+"habit.prayer.title" = "Prayer";
+"habit.prayer.detail" = "Five minutes with attention and heart";
+"habit.completed_today" = "Completed today";
+"habit.action.mark" = "Mark done";
+"habit.action.remove" = "Undo";
+"habit.streak.starts_today" = "Your streak can start today";
+
+"motivation.none" = "Start small. One honest step is enough today.";
+"motivation.half" = "Half the day is complete. Finish the second part without rushing.";
+"motivation.complete" = "The day is complete. Keep your attention until tomorrow.";
+
+"calendar.previous_month" = "Previous month";
+"calendar.next_month" = "Next month";
+"calendar.legend.workout" = "movement";
+"calendar.legend.prayer" = "prayer";
+"calendar.workout.completed" = "movement completed";
+"calendar.workout.missed" = "movement missed";
+"calendar.workout.pending" = "movement is pending";
+"calendar.workout.future" = "movement is not due yet";
+"calendar.prayer.completed" = "prayer completed";
+"calendar.prayer.missed" = "prayer missed";
+"calendar.prayer.pending" = "prayer is pending";
+"calendar.prayer.future" = "prayer is not due yet";
+
+"reminder.title" = "Do not miss the day";
+"reminder.toggle.accessibility" = "Daily reminders";
+"reminder.time.title" = "Time";
+"reminder.time.accessibility" = "Reminder time";
+"reminder.status.denied" = "Notification access is disabled in Settings.";
+"reminder.status.enabled" = "We will remind you only if the day is not fully complete.";
+"reminder.status.disabled" = "Enable one quiet reminder for each day.";
+"reminder.notification.title" = "Move & Pray · day not complete";
+"reminder.notification.only_prayer" = "Movement is done. Take five minutes for attentive prayer.";
+"reminder.notification.only_workout" = "Prayer is done. Find at least fifteen minutes for movement.";
+"reminder.notification.both" = "Do not miss the day: movement and five minutes of attentive prayer.";
+
+"alert.notifications_disabled.title" = "Notifications are off";
+"alert.notifications_disabled.message" = "Allow notifications for Move & Pray in Settings to receive a daily reminder.";
+"alert.not_now" = "Not now";
+"alert.open_settings" = "Open Settings";
+"alert.reminder_failed.title" = "Could not update the reminder";
+"alert.ok" = "OK";
+"error.load" = "Could not load your data. Try opening the app again.";
+
+"prayer.primary.acknowledge" = "I understand and mark done";
+"prayer.primary.close" = "Close";
+"prayer.source.title" = "St Theophan the Recluse — On Prayer";
+"prayer.source.accessibility_hint" = "Opens the source in the browser";
+"prayer.guidance.title" = "Prayer is not a counter";
+"prayer.guidance.disclaimer" = "The checkmark in this app is only a reminder—not a measure of spiritual life or a reason to compare yourself with others. Do not pray mechanically or try to read as much as possible. Five minutes with attention, repentance, and heart matter more than a rule completed as a formality.";
+"prayer.guidance.advice" = "Choose a prayer rule that fits your strength. If spiritual questions arise, it is better to discuss them with a priest who knows you.";
+"prayer.guidance.quote" = "“Without attention, prayer is not prayer. Therefore, attention is the essential thing.” — St Theophan the Recluse";
